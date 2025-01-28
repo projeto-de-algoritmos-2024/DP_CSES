@@ -1,45 +1,54 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# DP Problems - CSES
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: ????<br>
+**Conteúdo da Disciplina**: Programação Dinâmica
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                   |
+| ---------- | ----------------------- |
+| 22/1008098 | Henrique Camelo Quenino |
+| --/------- | ----------              |
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Sobre
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+O projeto possui como tema central a resolução de exercícios de programação competitiva sobre o tópico Programação Dinâmica, utilizando a plataforma de juiz online CSES.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## Instalação
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+**Linguagem**: C++
 
+Para utilizar e testar os programas, primeiro é necessário ter um compilador de C++ [instalado](https://www.geeksforgeeks.org/installing-mingw-tools-for-c-c-and-changing-environment-variable/) em sua máquina.
 
+Após instalar o compilador em sua máquina, clone o repositório utilizando:
 
+```bash
+git clone https://github.com/projeto-de-algoritmos-2024/Greedy_Problems_Codeforces.git
+```
+
+## Uso
+
+Após clonar o repositório, entre na pasta via terminal e compile os códigos utilizando:
+
+```bash
+g++ -O2 --std=c++23 <arquivo_a_compilar>
+```
+
+Um arquivo executável (.out) será criado, para inserir os inputs diretemente no terminal, utilize:
+
+```bash
+./a.out
+```
+
+Caso o arquivo possua extensão `.py`, verifique se possui o Python instalado na sua máquina e utilize o comando:
+
+```bash
+python <arquivo_a_interpretar>
+```
+
+## Problemas
+
+| Problema                                                    | Código                                 | Dificuldade | Responsável      | Vídeo                                               |
+| ----------------------------------------------------------- | -------------------------------------- | ----------- | ---------------- | --------------------------------------------------- |
+|  | | Difícil     |        | |
 
