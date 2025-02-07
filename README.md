@@ -1,6 +1,6 @@
 # DP Problems - CSES
 
-**Número da Lista**: ????<br>
+**Número da Lista**: 08<br>
 **Conteúdo da Disciplina**: Programação Dinâmica
 
 ## Alunos
@@ -8,7 +8,7 @@
 | Matrícula  | Aluno                   |
 | ---------- | ----------------------- |
 | 22/1008098 | Henrique Camelo Quenino |
-| --/------- | ----------              |
+| 21/1039484 | Iago Rocha              |
 
 ## Sobre
 
