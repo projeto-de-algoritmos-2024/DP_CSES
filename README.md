@@ -50,6 +50,7 @@ python <arquivo_a_interpretar>
 
 | Problema                                                       | Código                                               | Dificuldade       | Responsável      | Vídeo                                |
 | -------------------------------------------------------------- | ---------------------------------------------------- | ----------------- | ---------------- | ------------------------------------ |
-| [Minimizing Coins CSES](https://cses.fi/problemset/task/1634/) | [main.cpp](./problems/CSS_Minimizing_Coins/main.cpp) | Média             | Henrique Quenino | [link]()                             |
-| [Two Sets II](https://cses.fi/problemset/task/1093/)           | [main.cpp](./problems/1093/main.cpp)                 | Média             | iagorrr          | [link](https://youtu.be/PPI9IfPFlHc) |
+| [Minimizing Coins](https://cses.fi/problemset/task/1634/) | [main.cpp](./problems/CSS_Minimizing_Coins/main.cpp) | Média             | Henrique Quenino | [link](https://youtu.be/JzkW6yGUJoQ)                             |
+| [Removing Digits](https://cses.fi/problemset/task/1637) | [main.cpp](./problems/CSS_Removing_Digits/main.cpp) | Difícil             | Henrique Quenino | [link](https://youtu.be/sf8YmN9_OMk)                           |
+| [Two Sets II](https://cses.fi/problemset/task/1093/)           | [main.cpp](./problems/1093/main.cpp)                 | Difícil             | iagorrr          | [link](https://youtu.be/PPI9IfPFlHc) |
 | [Counting Towers](https://cses.fi/problemset/task/2143/)       | [main.cpp](./problems/2143/main.cpp)                 | ~Mt foda~ Difícil | iagorrr          | [link](https://youtu.be/cNrOTqoHPiQ) |
