@@ -48,7 +48,8 @@ python <arquivo_a_interpretar>
 
 ## Problemas
 
-| Problema                                                    | Código                                 | Dificuldade | Responsável      | Vídeo                                               |
-| ----------------------------------------------------------- | -------------------------------------- | ----------- | ---------------- | --------------------------------------------------- |
-| [Minimizing Coins CSES](https://cses.fi/problemset/task/1634/) | [main.cpp](./problems/CSS_Minimizing_Coins/main.cpp) | Média     |  Henrique Quenino      | [link]() |
-
+| Problema                                                       | Código                                               | Dificuldade       | Responsável      | Vídeo                                |
+| -------------------------------------------------------------- | ---------------------------------------------------- | ----------------- | ---------------- | ------------------------------------ |
+| [Minimizing Coins CSES](https://cses.fi/problemset/task/1634/) | [main.cpp](./problems/CSS_Minimizing_Coins/main.cpp) | Média             | Henrique Quenino | [link]()                             |
+| [Two Sets II](https://cses.fi/problemset/task/1093/)           | [main.cpp](./problems/1093/main.cpp)                 | Média             | iagorrr          | [link](https://youtu.be/PPI9IfPFlHc) |
+| [Counting Towers](https://cses.fi/problemset/task/2143/)       | [main.cpp](./problems/2143/main.cpp)                 | ~Mt foda~ Difícil | iagorrr          | [link](https://youtu.be/cNrOTqoHPiQ) |
