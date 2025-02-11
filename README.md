@@ -50,5 +50,5 @@ python <arquivo_a_interpretar>
 
 | Problema                                                    | Código                                 | Dificuldade | Responsável      | Vídeo                                               |
 | ----------------------------------------------------------- | -------------------------------------- | ----------- | ---------------- | --------------------------------------------------- |
-|  | | Difícil     |        | |
+| [Minimizing Coins CSES](https://cses.fi/problemset/task/1634/) | [main.cpp](./problems/CSS_Minimizing_Coins/main.cpp) | Média     |  Henrique Quenino      | [link]() |
 
